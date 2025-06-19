@@ -112,7 +112,7 @@ export function AuthPage({ onAuthSuccess }: AuthPageProps) {
         <div className="text-center mb-8">
           <div className="flex items-center justify-center gap-3 mb-4">
             <div className="h-10 w-10 rounded-lg flex items-center justify-center">
-              <img src="/icons/careerhub-icon.svg" alt="CareerHub" className="h-10 w-10" />
+              <img src="/icons/careerhub-logo.svg" alt="CareerHub Logo" className="h-10 w-10" />
             </div>
             <h1 className="text-3xl font-bold text-zinc-100 tracking-tight">CareerHub</h1>
           </div>
