@@ -116,7 +116,7 @@ export function AppSidebar() {
           <div className="p-6 border-b border-zinc-200 dark:border-zinc-800">
             <div className="flex items-center gap-3 transition-all duration-300">
               <div className="h-10 w-10 bg-gradient-to-br from-emerald-400 via-blue-500 to-purple-600 rounded-xl flex items-center justify-center transform transition-transform duration-300 hover:scale-110 shadow-lg">
-                <img src="/icons/careerhub-icon.svg" alt="CareerHub" className="h-6 w-6" />
+                <img src="/icons/careerhub-icon.svg" alt="CareerHub" className="h-10 w-10" />
               </div>
               {!isCollapsed && (
                 <div className="animate-fade-in">
